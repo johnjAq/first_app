@@ -14,6 +14,8 @@ gem 'will_paginate', '3.0.pre2'
 
 gem 'jquery-rails'
 
+
+
 group :development do
 #  gem 'rspec-rails', '2.6.1'
 #  gem 'annotate', '2.4.0'
